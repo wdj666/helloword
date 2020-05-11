@@ -17,5 +17,6 @@ import javax.xml.bind.SchemaOutputResolver;
 public class Hiword {
     public static void main(String[] args) {
         System.out.println("Hi World");
+        System.out.println("github is laji!");
     }
 }
